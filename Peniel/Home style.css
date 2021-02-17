@@ -1,0 +1,176 @@
+
+
+
+body{ background-image: url(Entoto.jpg); background-repeat:repeat-y ; background-size:cover; background-blend-mode: darken; height:100px  ; background attachment:fixed; padding: 0% ; padding-left: 10%;padding-top: 0%; padding-right: 10%;}
+
+h1{color:rgb(251, 251, 253); font-size: 40px;font-weight: 600;}
+.box-1{color:lavender; font-size: 35px; font-weight:400; margin-left: 5%;}
+.box-2{color:lavender; font-size: 35px; font-weight:400; margin-left: 5%;}
+.box-3{color:lavender; font-size: 35px; font-weight:400; margin-left: 5%;}
+.new{color:lavender; font-size: 35px; font-weight:400; }
+.ber{background: transparent; color:wheat;}
+.c .column1{ position: relative;
+    height:100%;
+    width:4000px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    size: 100%;}
+.c .column2{ position: relative;
+    height: 100%;
+      width: 50;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;}
+      .c
+    {width: 100%;
+    display: flex;
+justify-content:center;
+align-items:center;
+margin-top: 0px;}
+h3{color:rgb(2, 2, 31); font-size: 38px;font-weight: 450;text-align: center;font-style: italic;}
+/*#iframe {padding-right: 5%; padding-left: 5%;border-style: groove;}*/
+
+ul{float: right;
+    margin-top:25px;
+    list-style-type:none;
+word-spacing: 20pt;
+    
+}
+
+
+ul li{display: inline-block;}
+ul li a{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration:wavy;
+color: gray;
+font-style:normal;
+font-size: 25pt;
+background-size:100% ;
+background-color: white;
+padding: 1%;}
+ul li .button:hover{ color: rgb(97, 5, 5); background-image: url(buttton4.jpg);}
+ul li .button{
+    color:rgb(207, 179, 179);
+    background-size: 100%;
+    background-image: url(Button2.jpg);
+    padding: 1%;
+}
+.logo {float:left; width: 100px;
+100px}
+{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+    .contact
+{
+    position: relative;
+  height: fit-content;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(Entoto-park-project-Recovered.jpg);
+    background-size: cover;
+}
+.contact .content
+{max-width: 800px;
+text-align: center}
+.contact .content h2
+{font-size: 36px;
+font-weight:600;
+color:#fff;}
+.contact .content p
+{
+    font-weight:550;
+    color:rgb(255, 255, 255);
+font-size: 20px;}
+    .container
+    {width: 100%;
+    display: flex;
+justify-content:center;
+align-items:center;
+margin-top: 0px;}
+.container .ContactInfo
+{width: 50%;
+display: flex;
+flex-direction: column;}
+.container .ContactInfo .box
+{position: relative;
+padding: 2opx 0;
+display: flex;}
+.container .ContactInfo .box .icon
+{min-width: 60px;
+height: 60px;
+background:#fff;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+font-size: 22px;}
+.container .ContactInfo .box .text
+{ display:flex;
+margin-left: 20px;
+font-size: 20px;
+color:rgb(0, 0, 0);
+flex-direction: column;
+font-weight: 600;}
+.container .ContactInfo .box .text h3
+{
+    font-weight: 600;
+color: #0a1011;}
+.contactform
+{ width: 40%;
+padding: 40px;
+background: #fff;}
+.contactform h2
+{
+    font-size:30px;
+    color: #333;
+    font-weight: 500;
+}
+.contactform .inputBox
+{position: relative;
+width: 100%;
+margin-top:10px;}
+.contactform .inputBox input,
+ .contactform .inputBox textarea 
+{width: 100%;
+        padding: 5px 0;
+    font-size: 16px;
+margin: 10px 0;
+border: none;
+border-bottom: 2px solid #333;
+outline: none;
+resize: none;}
+.contactform .inputBox span
+{ position: absolute;
+left: 0;
+padding: 5px 0;
+font-size: 16px;
+margin: 10px 0;
+pointer-events:none;
+transition:6000000000000000000000000000000s;
+color: #666;}
+.contactform .inputBox input[type="submit"]
+{width;100px;
+background-color: #333;
+color:#fff;
+border: none;
+cursor:pointer;
+padding:10px;
+font size: 18px;
+ }
+ #sectionA {
+   
+    padding: 1%;
+    background-repeat: no-repeat;
+    width: auto;
+    text-align: center;
+    }
+
+
+ 
+
+
